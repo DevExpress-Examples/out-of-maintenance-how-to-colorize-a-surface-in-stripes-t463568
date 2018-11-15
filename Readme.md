@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Point.cs](./CS/RandomSurface/Model/Point.cs) (VB: [Point.vb](./VB/RandomSurface/Model/Point.vb))
+* **[MainWindow.xaml](./CS/RandomSurface/View/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/RandomSurface/View/MainWindow.xaml))**
+* [RandomDataViewModel.cs](./CS/RandomSurface/ViewModel/RandomDataViewModel.cs) (VB: [RandomDataViewModel.vb](./VB/RandomSurface/ViewModel/RandomDataViewModel.vb))
+<!-- default file list end -->
 # How to colorize a surface in stripes
 
 
